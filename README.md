@@ -1,0 +1,2 @@
+# Hybrid-Bandwidth-Adaptive-Compression-Using-Huffman-and-Shannon-Fano-Coding
+A hybrid compression pipeline combines bandwidth estimation (IBW, SEF), adaptive quantization, and entropy coding (Huffman and Shannon–Fano) to efficiently compress signals. It ensures maximum data reduction while maintaining signal fidelity, supporting scalable and low-power transmission for healthcare and IoT applications.
